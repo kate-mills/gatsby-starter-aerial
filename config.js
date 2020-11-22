@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Basic Example', // <title>
+  siteTitle: 'KMCo', // <title>
   manifestName: 'Aerial',
   manifestShortName: 'Portfolio', // max 12 characters
   manifestStartUrl: '/',
@@ -10,7 +10,7 @@ module.exports = {
   pathPrefix: `/gatsby-starter-aerial/`, // This path is subpath of your hosting https://domain/portfolio
   // social
 
-  authorName: 'Kate Mills',
+  authorName: 'Kate Mills Compnay',
   authorHeading: 'Web Developer - JAMStack',
   authorSocialLinks: [
     {
