@@ -10,7 +10,7 @@ module.exports = {
   pathPrefix: `/gatsby-starter-aerial/`, // This path is subpath of your hosting https://domain/portfolio
   // social
 
-  authorName: 'Kate Mills Compnay',
+  authorName: 'Kate Mills Company',
   authorHeading: 'Web Developer - JAMStack',
   authorSocialLinks: [
     {
