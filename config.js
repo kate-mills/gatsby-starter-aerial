@@ -1,6 +1,6 @@
 module.exports = {
   siteTitle: 'KMCO', // <title>
-  manifestName: 'Aerial',
+  manifestName: 'Webdevup',
   manifestShortName: 'Portfolio', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',
@@ -10,7 +10,7 @@ module.exports = {
   pathPrefix: `/gatsby-starter-aerial/`, // This path is subpath of your hosting https://domain/portfolio
   // social
 
-  authorName: 'Kate Mills Company',
+  authorName: 'Web Dev Up',
   authorHeading: 'Web Developer - JAMStack',
   authorSocialLinks: [
     {
